@@ -3,7 +3,7 @@
 
 authors = ["<devrel@fastly.com>"]
 description = "An empty application template for the Fastly Compute C++ SDK which returns a 200 OK response."
-language = "other"
+language = "cpp"
 manifest_version = 3
 name = "Empty starter kit for C++"
 
